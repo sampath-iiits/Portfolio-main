@@ -87,7 +87,7 @@ const Hero = () => {
     linkedin: "https://www.linkedin.com/in/talada-sampath-kumar-685187260/",
     github: "https://github.com/sampath-iiits",
     email: "mailto:sampathtalada@gmail.com",
-    photo: "/public/profile.jpg", // ✅ public/profile.jpg
+    photo: "/profile.jpg", // ✅ public/profile.jpg
   };
 
   return (
